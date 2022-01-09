@@ -13,3 +13,6 @@
 [submodule "blurry-loading"]
 	path = blurry-loading
 	url = https://github.com/sergiogval/blurry-loading
+[submodule "scroll-animation"]
+	path = scroll-animation
+	url = https://github.com/sergiogval/scroll-animation

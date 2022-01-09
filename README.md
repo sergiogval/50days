@@ -9,3 +9,4 @@
 3. Mobile menu [(not an common one)](https://sergiogval.github.io/mobile-menu/)
 4. Search icon that [opens a search bar](https://sergiogval.github.io/search-icon-expandible/)
 5. Blurry Loading [animation](https://sergiogval.github.io/blurry-loading/) 
+6. scroll [animation](https://sergiogval.github.io/scroll-animation/) 
