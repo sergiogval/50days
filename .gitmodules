@@ -10,3 +10,6 @@
 [submodule "search-icon-expandible"]
 	path = search-icon-expandible
 	url = https://github.com/sergiogval/search-icon-expandible.git
+[submodule "blurry-loading"]
+	path = blurry-loading
+	url = https://github.com/sergiogval/blurry-loading.git
