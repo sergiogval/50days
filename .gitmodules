@@ -1,0 +1,12 @@
+[submodule "Expanding-cards"]
+	path = Expanding-cards
+	url = https://github.com/sergiogval/Expanding-cards
+[submodule "mobile-menu"]
+	path = mobile-menu
+	url = https://github.com/sergiogval/mobile-menu
+[submodule "progress-steps"]
+	path = progress-steps
+	url = https://github.com/sergiogval/progress-steps
+[submodule "search-icon-expandible"]
+	path = search-icon-expandible
+	url = https://github.com/sergiogval/search-icon-expandible.git
