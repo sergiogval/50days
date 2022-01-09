@@ -8,4 +8,4 @@
 2. Progress [steps](https://sergiogval.github.io/progress-steps/)
 3. Mobile menu [(not an common one)](https://sergiogval.github.io/mobile-menu/)
 4. Search icon that [opens a search bar](https://sergiogval.github.io/search-icon-expandible/)
-5. Loading progress animation 
+5. Blurry Loading [animation](https://sergiogval.github.io/blurry-loading/) 

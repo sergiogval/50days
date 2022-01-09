@@ -9,7 +9,7 @@
 	url = https://github.com/sergiogval/progress-steps
 [submodule "search-icon-expandible"]
 	path = search-icon-expandible
-	url = https://github.com/sergiogval/search-icon-expandible.git
+	url = https://github.com/sergiogval/search-icon-expandible
 [submodule "blurry-loading"]
 	path = blurry-loading
-	url = https://github.com/sergiogval/blurry-loading.git
+	url = https://github.com/sergiogval/blurry-loading
