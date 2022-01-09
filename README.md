@@ -4,7 +4,7 @@
 
 ### This is a list of 50 HTML/CSS/JS projects that I have created.
 
-- [x] Expanding cards
+1. Expanding [cards](https://sergiogval.github.io/Expanding-cards/)
 - [x] Progress steps
 - [x] Mobile menu (not an common one)
 - [X] Search icon that opens a search bar
