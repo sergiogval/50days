@@ -16,3 +16,6 @@
 [submodule "scroll-animation"]
 	path = scroll-animation
 	url = https://github.com/sergiogval/scroll-animation
+[submodule "split-landing-page"]
+	path = split-landing-page
+	url = https://github.com/sergiogval/split-landing-page
