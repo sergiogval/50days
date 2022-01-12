@@ -19,3 +19,6 @@
 [submodule "split-landing-page"]
 	path = split-landing-page
 	url = https://github.com/sergiogval/split-landing-page
+[submodule "form-input-wave"]
+	path = form-input-wave
+	url = https://github.com/sergiogval/form-input-wave.git
