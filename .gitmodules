@@ -25,3 +25,6 @@
 [submodule "sound-board"]
 	path = sound-board
 	url = https://github.com/sergiogval/sound-board.git
+[submodule "have-a-laugh"]
+	path = have-a-laugh
+	url = https://github.com/sergiogval/have-a-laugh.git

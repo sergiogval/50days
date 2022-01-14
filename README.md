@@ -2,7 +2,7 @@
 
 ## Description
 
-### This is a list of 50 HTML/CSS/JS projects that I have created.
+### This is a list of 50 HTML/CSS/JS projects that I'm currently working on. Feel free to check out any of them on it's live demo. 
 
 1. Expanding [cards](https://sergiogval.github.io/Expanding-cards/)
 2. Progress [steps](https://sergiogval.github.io/progress-steps/)
@@ -13,3 +13,4 @@
 7. Split [landing page](https://sergiogval.github.io/split-landing-page/)
 8. Form input [wave](https://sergiogval.github.io/form-input-wave/)
 9. Sound [box](https://sergiogval.github.io/sound-board/) 
+10. Have a [laug](https://github.com/sergiogval/have-a-laugh/)
