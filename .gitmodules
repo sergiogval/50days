@@ -22,3 +22,6 @@
 [submodule "form-input-wave"]
 	path = form-input-wave
 	url = https://github.com/sergiogval/form-input-wave.git
+[submodule "sound-board"]
+	path = sound-board
+	url = https://github.com/sergiogval/sound-board.git
