@@ -11,4 +11,5 @@
 5. Blurry Loading [animation](https://sergiogval.github.io/blurry-loading/) 
 6. scroll [animation](https://sergiogval.github.io/scroll-animation/) 
 7. Split [landing page](https://sergiogval.github.io/split-landing-page/)
-8. Form input [wave](https://sergiogval.github.io/form-input-wave/) 
+8. Form input [wave](https://sergiogval.github.io/form-input-wave/)
+9. Sound [box](https://sergiogval.github.io/sound-board/) 
