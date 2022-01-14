@@ -13,4 +13,4 @@
 7. Split [landing page](https://sergiogval.github.io/split-landing-page/)
 8. Form input [wave](https://sergiogval.github.io/form-input-wave/)
 9. Sound [box](https://sergiogval.github.io/sound-board/) 
-10. Have a [laug](https://github.com/sergiogval/have-a-laugh/)
+10. Have a [laugh](https://github.com/sergiogval/have-a-laugh/)
